@@ -25,10 +25,13 @@ public class main {
 					MaxandMin.max_min();
 					break;
 				case 3:
+					SumandAvg.sum_avg();
 					break;
 				case 4:
+					GuGuDan.gugudan();
 					break;
 				case 5:
+					GuGuDan2.gugudan2();
 					break;
 				case 6:
 					break;
