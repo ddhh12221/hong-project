@@ -22,6 +22,7 @@ public class main {
 					SumOfNumbers.sum();
 					break;
 				case 2:
+					MaxandMin.max_min();
 					break;
 				case 3:
 					break;
