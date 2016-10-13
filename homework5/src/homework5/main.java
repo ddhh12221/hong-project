@@ -28,6 +28,7 @@ public class main {
 					SumandAvg.sum_avg();
 					break;
 				case 4:
+					GuGuDan.gugudan();
 					break;
 				case 5:
 					break;
