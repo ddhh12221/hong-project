@@ -25,6 +25,7 @@ public class main {
 					MaxandMin.max_min();
 					break;
 				case 3:
+					SumandAvg.sum_avg();
 					break;
 				case 4:
 					break;
